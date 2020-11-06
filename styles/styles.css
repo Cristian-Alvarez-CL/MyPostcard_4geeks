@@ -1,5 +1,5 @@
 body{
-    background: blue;
+    background: black;
     position: relative;
     font-family: 'Handlee', cursive;
 }
@@ -54,6 +54,8 @@ footer{
     height: 50px;
     position: relative;
     left: 5%;
+    font-family: 'Handlee', cursive;
+    
 }
 
 section{

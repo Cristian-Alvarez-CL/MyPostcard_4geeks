@@ -33,11 +33,6 @@ body{
     margin-left: 10px;
 }
 
-.btn{
-    position: relative;
-    bottom: -78%;
-}
-
 .txtGeneral{
     margin: 1px;
 }
@@ -50,8 +45,15 @@ body{
     margin: 10px;
 }
 
+footer{
+    position: relative;
+    top: 75%;
+}
+
 .btnSendMyPostcard{
     height: 50px;
+    position: relative;
+    left: 5%;
 }
 
 section{

@@ -1,0 +1,59 @@
+body{
+    background: blue;
+    position: relative;
+   
+}
+.divGeneral{
+ background: white;
+ width: 600px;
+ height: 320px;
+ margin: 5px;
+ position: absolute;
+}
+
+.titulo{
+    float: left;
+    margin-left: 10px;
+}
+
+.img4geeks img{
+   float: right;
+   position: relative;
+   max-width: 60px;
+   right: 16px;
+   margin: 10px;
+}
+
+.section{
+    display: flex;
+}
+
+.txt{
+    width: 50%;
+    margin-left: 10px;
+}
+
+.btn{
+    position: relative;
+    bottom: -78%;
+}
+
+.txtGeneral{
+    margin: 1px;
+}
+
+.txtGeneral input{
+    display: block;
+    position: relative;
+    width: 90%;
+    font-size: 20px;
+    margin: 10px;
+}
+
+.btnSendMyPostcard{
+    height: 50px;
+}
+
+section{
+    float: left;
+}

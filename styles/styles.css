@@ -1,0 +1,65 @@
+body{
+    background: black;
+    position: relative;
+    font-family: 'Handlee', cursive;
+}
+.divGeneral{
+ background: white;
+ width: 600px;
+ height: 320px;
+ margin: 5px;
+ position: absolute;
+}
+
+.titulo{
+    float: left;
+    margin-left: 10px;
+}
+
+.img4geeks img{
+   float: right;
+   position: relative;
+   max-width: 60px;
+   right: 16px;
+   margin: 10px;
+}
+
+.section{
+    display: flex;
+}
+
+.txt{
+    width: 50%;
+    margin-left: 10px;
+}
+
+.txtGeneral{
+    margin: 1px;
+}
+
+.txtGeneral input{
+    display: block;
+    position: relative;
+    width: 90%;
+    font-size: 20px;
+    margin: 10px;
+    font-family: 'Handlee', cursive;
+    border: none;
+    border-bottom: 1px solid grey;
+}
+
+footer{
+    position: relative;
+    top: 75%;
+}
+
+.btnSendMyPostcard{
+    height: 50px;
+    position: relative;
+    left: 5%;
+    font-family: 'Handlee', cursive;
+}
+
+section{
+    float: left;
+}
